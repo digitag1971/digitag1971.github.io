@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: "Blog", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:arch.a.graziano@gmail.com"}
+  # - {title: Mail, icon: envelope, url: "mailto:arch.a.graziano@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/digitag1971"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/arch.a.graziano/"}
   - {title: Facebook, icon: twitter, url: "https://www.facebook.com/arch.a.graziano"}
