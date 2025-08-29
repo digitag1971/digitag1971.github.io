@@ -26,7 +26,7 @@ external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:arch.a.graziano@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/digitag1971"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/arch.a.graziano/"}
-  - {title: Facebook, icon: medium, url: "https://www.facebook.com/arch.a.graziano"}
+  - {title: Facebook, icon: Facebook, url: "https://www.facebook.com/arch.a.graziano"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
