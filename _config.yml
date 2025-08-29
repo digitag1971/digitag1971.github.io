@@ -24,7 +24,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:arch.a.graziano@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/digitag1971"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: BlueSky, icon: bluesky, url: "https://bsky.app/profile/digitag.bsky.social"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
