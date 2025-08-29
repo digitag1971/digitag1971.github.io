@@ -19,8 +19,8 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "aboutme.md", title: "About me", sidebaricon: address-card}
-  - {file: "CV.md", title: "CV", sidebaricon: address-card}
-  - {title: "Co-de-iT", url: "https://www.co-de-it.com"}
+ # - {file: "CV.md", title: "CV", sidebaricon: address-card}
+ # - {title: "Co-de-iT", url: "https://www.co-de-it.com"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:arch.a.graziano@gmail.com"}
