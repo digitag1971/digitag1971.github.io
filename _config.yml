@@ -18,7 +18,7 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
- # - {file: "aboutme.md", title: "About me", sidebaricon: address-card}
+  - {file: "aboutme.md", title: "About me", sidebaricon: address-card}
   - {file: "CV.md", title: "CV", sidebaricon: address-card}
   - {title: "Co-de-iT", url: "https://www.co-de-it.com"}
 
