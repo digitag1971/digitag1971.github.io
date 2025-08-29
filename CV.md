@@ -84,27 +84,19 @@ A ‘digital explorer’ and ‘knowmad’ aiming to research, curate, and envis
 ## Selected Publications
 
 - *Optimization of trajectory processing algorithms to print 3D circuit boards using piezo inkjet and 6-axis robots*
-
         D. Beneventi, A. Graziano, G. Furia, L. Charpin, M. Jean-Louis
-
         Journal of Manufacturing Processes Vol. 101 (2023)
 
 - *Use of a 6-axis robot and ink piezo-jetting to print conductive paths on 3D objects*
-  
   G. Furia, F. Tricot, D. Chaussy, P. Marin, A. Graziano, D. Beneventi
-  
   CIRP Journal of Manufacturing Science and Technology,  (2021)
   
 - *BioLogic – Living Structures and Swarm Bodies*
-  
   M. Montalti, A. Erioli, A. Graziano, T. Casucci, M. Daneluzzo, S. Bäumel, M. Moretti, P. van Boheemen
-  
   Slime Mould in Arts and Architecture (2019)
   
 - *From Shaping Matter to Informing Matter: Computation as design medium*
-  
   A. Graziano, A. Erioli
-  
   Unconventional Computing: Design Methods for Adaptive Architecture curated by R. Armstrong, S. Ferracina, (2013)
   
 
