@@ -49,7 +49,6 @@ A ‘digital explorer’ and ‘knowmad’ aiming to research, curate, and envis
 **IaaC - Barcelona**
 
 - Master in Robotic Architecture and Construction - MRAC - thesis tutor (2024/25), teacher (2022, 2023)
-  
 - MAA - Master in Advanced Architecture - thesis tutor (2020/21), teacher (2020, 2021, 2022, 2023)
   
 
@@ -57,7 +56,7 @@ A ‘digital explorer’ and ‘knowmad’ aiming to research, curate, and envis
 
 **Centrale Supelec** - Paris - 'Introduction to Digital Twin' course - teacher (2019 - 2023)
 
-**École des Ponts ParisTech** - Paris - Master 'Design by Data' - Teacher (2016 - 2021)
+**École des Ponts ParisTech** - Paris - Master 'Design by Data' - teacher (2016 - 2021)
 
 **Die Angewandte** - Wien - Atlas of Sensations - Urban Strategies Summer School - teacher (2012)
 
