@@ -44,21 +44,21 @@ A ‘digital explorer’ and ‘knowmad’ aiming to research, curate, and envis
 - **Architect** - individual practice (2000 – current)
   
 
-## Teaching
+## Academic Teaching
 
-**IaaC - Barcelona**
-
-- Master in Robotic Architecture and Construction - MRAC - thesis tutor (2024/25), teacher (2022, 2023)
-- MAA - Master in Advanced Architecture - thesis tutor (2020/21), teacher (2020, 2021, 2022, 2023)
+- **IaaC - Barcelona**
+  - Master in Robotic Architecture and Construction - MRAC - thesis tutor (2024/25), teacher (2022, 2023)
+  - MAA - Master in Advanced Architecture - thesis tutor (2020/21), teacher (2020, 2021, 2022, 2023)
   
+- **TALM Le Mans** - Computational Design Workshop - teacher (2019 - current)
 
-**TALM Le Mans** - Computational Design Workshop - teacher (2019 - current)
+- **Centrale Supelec** - Paris - 'Introduction to Digital Twin' course - teacher (2019 - 2023)
 
-**Centrale Supelec** - Paris - 'Introduction to Digital Twin' course - teacher (2019 - 2023)
+- **École des Ponts ParisTech** - Paris - Master 'Design by Data' - teacher (2016 - 2021)
 
-**École des Ponts ParisTech** - Paris - Master 'Design by Data' - teacher (2016 - 2021)
+- **Die Angewandte** - Wien - Atlas of Sensations - Urban Strategies Summer School - teacher (2012)
 
-**Die Angewandte** - Wien - Atlas of Sensations - Urban Strategies Summer School - teacher (2012)
+## Workshops Teaching
 
 **Computational design & digital/robotic fabrication workshops**:  Dubai, Doha, Barcelona, Moscow, Paris, Innsbruck, Vienna, Bratislava, Bucharest, Muscat, Beirut, Eindhoven, Denver, Toronto, Buenos Aires, Grenoble, Kansas City, Bozeman, Rome, Turin, Bologna, Naples, Venice, Siracusa, Catania, Milan, Genoa, Udine, Lecce, Altamura, Cava Dei Tirreni (among others) (2009 - current)
 
