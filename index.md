@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "About me"
 ---
 
 I am an architect and computational designer, co-founder of [Co-de-iT](https://www.co-de-it.com) - Computational Design Italy. I teach international workshops on computational design, digital tools, and robotic fabrication in architecture. I also consult for industry and research institutes.
