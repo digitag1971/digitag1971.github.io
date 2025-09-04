@@ -15,13 +15,4 @@ The research cluster worked mainly on the project A.A.R.M. [Algorithm - Art - Ro
 
 digifabTURINg team: Andrea Graziano (computation and fabrication), Marco Palma (computation and fabrication), Stefano Paradiso (hardware and electronics and Bruno Demasi (hardware and crafts)
 
----
-**Links**
-
-[Blog](https://digifabturing.tumblr.com)
-
-[Instagram](https://www.instagram.com/digifabturing)
-
-[Facebook](https://www.facebook.com/digifabturing)
-
-[GitHub](https://github.com/Digifabturing)
+**digifabTURINg Links:** [Blog](https://digifabturing.tumblr.com) // [Instagram](https://www.instagram.com/digifabturing) // [Facebook](https://www.facebook.com/digifabturing) // [GitHub](https://github.com/Digifabturing)
