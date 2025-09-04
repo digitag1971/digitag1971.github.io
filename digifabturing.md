@@ -1,6 +1,6 @@
 ---
 
-title: "digifabTURINg"
+title: ""
 permalink: "/digifabTURINg/"
 layout: page
 
@@ -18,10 +18,10 @@ digifabTURINg team: Andrea Graziano (computation and fabrication), Marco Palma (
 ---
 **Links**
 
-https://digifabturing.tumblr.com
+[Blog](https://digifabturing.tumblr.com)
 
-https://www.instagram.com/digifabturing
+[Instagram](https://www.instagram.com/digifabturing)
 
-https://www.facebook.com/digifabturing
+[Facebook](https://www.facebook.com/digifabturing)
 
-https://github.com/Digifabturing
+[GitHub](https://github.com/Digifabturing)
