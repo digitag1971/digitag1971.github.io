@@ -15,7 +15,7 @@ The research cluster worked mainly on the project A.A.R.M. [Algorithm - Art - Ro
 
 Team:
 
-Andrea Graziano (computation and fabrication), Marco Palma (computation and fabrication), Stefano Paradiso (hardware and electronics) and Bruno Demasi (hardware and crafts)
+Andrea Graziano (computation & fabrication), Marco Palma (computation & fabrication), Stefano Paradiso (hardware & electronics) and Bruno Demasi (hardware & crafts)
 
 Links:
 
