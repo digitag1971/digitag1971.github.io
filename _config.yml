@@ -28,7 +28,7 @@ external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Github, icon: github, url: "https://github.com/digitag1971"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/arch.a.graziano/"}
   - {title: Facebook, icon: facebook, url: "https://www.facebook.com/arch.a.graziano"}
-  - {title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/digitag.bsky.social"}
+  - {title: Bluesky, icon: bsky, url: "https://bsky.app/profile/digitag.bsky.social"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
