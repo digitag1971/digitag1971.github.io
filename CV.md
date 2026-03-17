@@ -48,7 +48,7 @@ A ‘digital explorer’ and ‘knowmad’ aiming to research, curate, and envis
 
 - **IaaC - Barcelona**
   - Master in Robotic Architecture and Construction - MRAC - thesis tutor (2024/25), teacher (2022, 2023)
-  - MAA - Master in Advanced Architecture - thesis tutor (2020/21), teacher (2020, 2021, 2022, 2023)
+  - MAA - Master in Advanced Architecture - thesis tutor (2020/21), teacher (2020, 2021, 2022, 2023, 2024, 2026)
   
 - **TALM Le Mans** - Computational Design Workshop - teacher (2019 - current)
 
@@ -65,6 +65,8 @@ A ‘digital explorer’ and ‘knowmad’ aiming to research, curate, and envis
 **Invited lecturer/speaker**: RESE ARCH MeetUp 2018, STRAND conference - Belgrade, SOURCE 2015 – Florence, Shape of Logic – Wroclaw, MIGZ festival – Moscow, IaaC - Barcelona, FADU Buenos Aires, TU Innsbruck, Glimps - Gent, École des Ponts ParisTech - Paris, Digital Architecture Symposium - Wien, Domus Academy - Milan (among others) (2009 - current)
 
 ## Selected Works
+
+- **Woven Cells** - woven artpiece, part of **Weaveology research project** developed with Maude Guirault. It was part of the Nexus exhibition in 2025 at the Ateliers Vauban Besançon.
 
 - **BIO EX-MACHINA research project** - the project, developed in collaboration with Officina Corpuscoli, was included in the exhibition La Fabrique du Vivant - «Mutations / Créations 3» at Centre Pompidou in Paris (2019).
   
@@ -94,7 +96,7 @@ A ‘digital explorer’ and ‘knowmad’ aiming to research, curate, and envis
 
 ## TECHNICAL SKILLS
 
-Expert and consultant about computational design, computational tools, digital fabrication and robotics in architecture & design.
+Expert and consultant about computational design, computational tools, digital fabrication, and robotics in architecture & design.
 
 ## LANGUAGES
 
@@ -103,4 +105,4 @@ English: written and spoken – intermediate level
 
 ## INTERESTS
 
-Science, biology, synthetic biology, neuroscience, 3Dprinting, human enhancement technology.
+Science, biology, synthetic biology, neuroscience, 3D printing, human enhancement technology.
