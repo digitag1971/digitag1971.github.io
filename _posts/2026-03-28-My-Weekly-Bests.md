@@ -3,7 +3,7 @@ title:  "My weekly best readings, listenings & watchings"
 layout: post
 ---
 
-## An ongoing and provisional collection of articles, podcasts, documentaries, & Co. I think they are worthy to be shared.
+### An ongoing and provisional collection of articles, podcasts, documentaries, & Co. I think they are worthy to be shared.
 
 ### (week 13)
 
@@ -19,7 +19,7 @@ layout: post
 
 [Aeon - The six-second hug](https://aeon.co/essays/instrumentalisation-is-making-everything-a-means-to-an-end) #enshittification #art #modernity #instrumentalisation #philosophy
 
-#### (week 12)
+### (week 12)
 
 [Grace Blakeley - Capitalism is Killing the Future](https://graceblakeley.substack.com/p/capitalism-is-killing-the-future) #Capitalism #Crisis #Inequality #Resistance
 
@@ -41,7 +41,7 @@ layout: post
 
 [Brad Mehldau: The Greatest Jazz Pianist of Our Generation](https://www.youtube.com/feed/history) #music
 
-[What technology takes from us – and how to take it back | AI (artificial intelligence) - The Guardian](https://www.theguardian.com/news/ng-interactive/2026/jan/29/what-technology-takes-from-us-and-how-to-take-it-back) #tech
+[What technology takes from us – and how to take it back - AI (artificial intelligence) - The Guardian](https://www.theguardian.com/news/ng-interactive/2026/jan/29/what-technology-takes-from-us-and-how-to-take-it-back) #tech
 
 [La Niña Is Doing Something It Shouldn't This Year](https://www.youtube.com/watch?v=JIdwC1kipGo) #climatechange
 
@@ -97,7 +97,7 @@ layout: post
 
 [Madagascar: AI Trainers - ARTE.tv Documentary](https://www.youtube.com/watch?v=Q7NZK6h9Tvo) #AI #training #exploitation
 
-[Arctic Ascent with Alex Honnold MEGA EPISODE - Climbing a 4,000 Foot Cliff | SPECIAL](https://www.youtube.com/watch?v=UqwSahByqfQ) #climbing #science #extremeenvironments #climate #research
+[Arctic Ascent with Alex Honnold MEGA EPISODE - Climbing a 4,000 Foot Cliff - SPECIAL](https://www.youtube.com/watch?v=UqwSahByqfQ) #climbing #science #extremeenvironments #climate #research
 
 [Number of people living in extreme heat to double by 2050 if 2C rise occurs, study finds](https://www.theguardian.com/environment/2026/jan/26/number-of-people-living-in-extreme-heat-to-double-by-2050-if-2c-rise-occurs-study-finds) #climatecrisis #water #scarcity
 
@@ -109,7 +109,7 @@ layout: post
 
 [Era of ‘global water bankruptcy’ is here, UN report says](https://www.theguardian.com/environment/2026/jan/20/era-of-global-water-bankruptcy-is-here-un-report-says) #climatecrisis #water #scarcity
 
-[The Thinking Game - Full documentary | Tribeca Film Festival](https://www.youtube.com/watch?v=d95J8yzvjbQ) #AI #documentary #movie #deepmind
+[The Thinking Game - Full documentary - Tribeca Film Festival](https://www.youtube.com/watch?v=d95J8yzvjbQ) #AI #documentary #movie #deepmind
 
 [NOVA - Secrets of the Forest](https://www.pbs.org/video/secrets-of-the-forest-gijzto/) #forests #trees #complexity #climatecrisis
 
