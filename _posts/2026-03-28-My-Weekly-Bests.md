@@ -7,31 +7,31 @@ layout: post
 
 ### (week 13)
 
-[JASON HICKEL | Why capitalism is fundamentally undemocratic](https://substack.com/home/post/p-159739810) #economy #capitalism #democracy
+[JASON HICKEL - Why capitalism is fundamentally undemocratic](https://substack.com/home/post/p-159739810) #economy #capitalism #democracy
 
-[ETHZ | Architektur im Gespräch: Pascal Haeusermann](https://www.youtube.com/watch?v=uDrDG4Myai8) #architecture #lecture
+[ETHZ - Architektur im Gespräch: Pascal Haeusermann](https://www.youtube.com/watch?v=uDrDG4Myai8) #architecture #lecture
 
-[Planet Critical podcast | Feeding the Future - Nicole Negowetti](https://www.youtube.com/watch?v=-tC7ApZqQbA) #metacrisis #food #foodsystem #future
+[Planet Critical podcast - Feeding the Future - Nicole Negowetti](https://www.youtube.com/watch?v=-tC7ApZqQbA) #metacrisis #food #foodsystem #future
 
-[Astrobiology | All DNA/RNA Nucleobases Are Found On Asteroid Ryugu](https://astrobiology.com/2026/03/all-dna-rna-nucleobases-are-found-on-asteroid-ryugu.html) #space #biology #life
+[Astrobiology - All DNA/RNA Nucleobases Are Found On Asteroid Ryugu](https://astrobiology.com/2026/03/all-dna-rna-nucleobases-are-found-on-asteroid-ryugu.html) #space #biology #life
 
-[Aeon | Catastrophe markets](https://aeon.co/essays/what-is-the-real-cost-of-betting-on-weather-catastrophes) #bets #catastrophes #market
+[Aeon - Catastrophe markets](https://aeon.co/essays/what-is-the-real-cost-of-betting-on-weather-catastrophes) #bets #catastrophes #market
 
-[Aeon | The six-second hug](https://aeon.co/essays/instrumentalisation-is-making-everything-a-means-to-an-end) #enshittification #art #modernity #instrumentalisation #philosophy
+[Aeon - The six-second hug](https://aeon.co/essays/instrumentalisation-is-making-everything-a-means-to-an-end) #enshittification #art #modernity #instrumentalisation #philosophy
 
 #### (week 12)
 
-[Grace Blakeley | Capitalism is Killing the Future](https://graceblakeley.substack.com/p/capitalism-is-killing-the-future) #Capitalism #Crisis #Inequality #Resistance
+[Grace Blakeley - Capitalism is Killing the Future](https://graceblakeley.substack.com/p/capitalism-is-killing-the-future) #Capitalism #Crisis #Inequality #Resistance
 
-[AEON | Where loneliness can lead](https://aeon.co/essays/for-hannah-arendt-totalitarianism-is-rooted-in-loneliness) #loneliness #totalitarianism #philosophy #ideology
+[AEON - Where loneliness can lead](https://aeon.co/essays/for-hannah-arendt-totalitarianism-is-rooted-in-loneliness) #loneliness #totalitarianism #philosophy #ideology
 
-[Gen Z in Eastern Europe | ARTE.tv Documentary](https://www.youtube.com/watch?v=zYPWw-Lk_1U) #genZ #resistance
+[Gen Z in Eastern Europe - ARTE.tv Documentary](https://www.youtube.com/watch?v=zYPWw-Lk_1U) #genZ #resistance
 
-[The Atlantic | Inside the dirty, dystopian world of ai data centers](https://www.theatlantic.com/magazine/2026/04/ai-data-centers-energy-demands/686064/) #AI #datacenters
+[The Atlantic - Inside the dirty, dystopian world of ai data centers](https://www.theatlantic.com/magazine/2026/04/ai-data-centers-energy-demands/686064/) #AI #datacenters
 
-[Collapse 2050 | Reclaiming Sanity in an Insane World](https://www.collapse2050.com/reclaiming-sanity-in-an-insane-world/) #metacrisis #reaction #agency
+[Collapse 2050 - Reclaiming Sanity in an Insane World](https://www.collapse2050.com/reclaiming-sanity-in-an-insane-world/) #metacrisis #reaction #agency
 
-[Why Capitalism Is Now A Game of Mind Control | Jim Rutt](https://www.youtube.com/watch?v=w7PgKUWutSg) #economy #capitalism
+[Why Capitalism Is Now A Game of Mind Control - Jim Rutt](https://www.youtube.com/watch?v=w7PgKUWutSg) #economy #capitalism
 
 ### (week 10 & 11)
 
