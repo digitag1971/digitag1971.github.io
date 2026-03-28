@@ -3,7 +3,7 @@ title:  "My weekly best readings, listenings & watchings"
 layout: post
 ---
 
-### An ongoing and provisional collection of articles, podcasts, documentaries, & Co. I think they are worthy to be shared.
+An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
 ### (week 13)
 
