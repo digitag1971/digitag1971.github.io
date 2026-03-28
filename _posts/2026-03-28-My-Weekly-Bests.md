@@ -3,7 +3,7 @@ title:  "My weekly best readings, listenings & watchings"
 layout: post
 ---
 
-An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
+*An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
 ### (week 13)
 
@@ -59,7 +59,7 @@ An ongoing and provisional collection of articles, podcasts, documentaries, & ot
 
 [NEW REPORT – The AI climate hoax](https://ketanjoshi.co/2026/02/17/big-tech-greenwashing-report/) #report #AI #greenwashing #energy
 
-[The Green Transition Needs So Much Mining w/ Thea Riofrancos](https://www.youtube.com/watch?v=ZS45aRGvzSw) #podcast #greendeal #greentransition #mining #resources
+[The Green Transition Needs So Much Mining with Thea Riofrancos](https://www.youtube.com/watch?v=ZS45aRGvzSw) #podcast #greendeal #greentransition #mining #resources
 
 [What is driving the AI hype machine? — Cory Doctorow - The Listening Post](https://www.youtube.com/watch?v=p6OwIIDZuso) #speech #corydoctorow #AI #hype
 
