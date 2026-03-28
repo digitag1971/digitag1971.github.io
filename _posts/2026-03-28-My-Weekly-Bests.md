@@ -7,17 +7,12 @@ layout: post
 
 ### (week 13)
 
-[JASON HICKEL - Why capitalism is fundamentally undemocratic](https://substack.com/home/post/p-159739810) #economy #capitalism #democracy
-
-[ETHZ - Architektur im Gespräch: Pascal Haeusermann](https://www.youtube.com/watch?v=uDrDG4Myai8) #architecture #lecture
-
-[Planet Critical podcast - Feeding the Future - Nicole Negowetti](https://www.youtube.com/watch?v=-tC7ApZqQbA) #metacrisis #food #foodsystem #future
-
-[Astrobiology - All DNA/RNA Nucleobases Are Found On Asteroid Ryugu](https://astrobiology.com/2026/03/all-dna-rna-nucleobases-are-found-on-asteroid-ryugu.html) #space #biology #life
-
-[Aeon - Catastrophe markets](https://aeon.co/essays/what-is-the-real-cost-of-betting-on-weather-catastrophes) #bets #catastrophes #market
-
-[Aeon - The six-second hug](https://aeon.co/essays/instrumentalisation-is-making-everything-a-means-to-an-end) #enshittification #art #modernity #instrumentalisation #philosophy
+- [JASON HICKEL - Why capitalism is fundamentally undemocratic](https://substack.com/home/post/p-159739810) #economy #capitalism #democracy
+- [ETHZ - Architektur im Gespräch: Pascal Haeusermann](https://www.youtube.com/watch?v=uDrDG4Myai8) #architecture #lecture
+- [Planet Critical podcast - Feeding the Future - Nicole Negowetti](https://www.youtube.com/watch?v=-tC7ApZqQbA) #metacrisis #food #foodsystem #future
+- [Astrobiology - All DNA/RNA Nucleobases Are Found On Asteroid Ryugu](https://astrobiology.com/2026/03/all-dna-rna-nucleobases-are-found-on-asteroid-ryugu.html) #space #biology #life
+- [Aeon - Catastrophe markets](https://aeon.co/essays/what-is-the-real-cost-of-betting-on-weather-catastrophes) #bets #catastrophes #market
+- [Aeon - The six-second hug](https://aeon.co/essays/instrumentalisation-is-making-everything-a-means-to-an-end) #enshittification #art #modernity #instrumentalisation #philosophy
 
 ### (week 12)
 
