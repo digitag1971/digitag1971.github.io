@@ -5,6 +5,15 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+(week 14)
+
+- [Jared Henderson - I don't like what the internet is doing to me.](https://www.youtube.com/watch?v=c0VHypPaVM8) #online #internet #change #life_gamification
+- [Planet Critical - Resilience is Resistance - Max Wilbert](https://www.youtube.com/watch?v=jG0H_sG8CKs&t=865s) #activism #metacrisis #politics #climatecrisis
+- [Navigating Unstable Energy Supplies Amidst Global Conflict with Chris Keefer | TGS 215](https://www.youtube.com/watch?v=wFwQBknfWeg) #energy #nuclear #politics #environment
+- [Why Adam Savage Won't Trust USB Keys](https://www.youtube.com/watch?v=OpcuqePIL7k&t=921s) #online #safety #hacking #data
+- [Exploration & Epiphany - Guest video by Paul Dancstep](https://www.youtube.com/watch?v=_BrFKp-U8GI) #SolLeWitt #art #computational #thinking
+- [Aeon - Banking beyond the law](https://aeon.co/essays/the-underground-bankers-who-reshape-the-flow-of-global-money) #UndergroundBanking #Economy #Decoupling
+
 ### (week 13)
 
 - [JASON HICKEL - Why capitalism is fundamentally undemocratic](https://substack.com/home/post/p-159739810) #economy #capitalism #democracy
