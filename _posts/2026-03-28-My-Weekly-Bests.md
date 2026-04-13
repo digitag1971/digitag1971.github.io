@@ -5,6 +5,13 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 15
+
+- [Planet Critical - Architecture is Climate - Tatjana Schneider & Jeremy Till](https://www.youtube.com/watch?v=hyViI5yiMpM&list=WL&index=11) #architecture #climatecrisis
+- [Brain rot is costing us democracy - Damita Pressl at TEDxTUWien](https://www.youtube.com/watch?v=jt6SVF2lyTo) #democracy #socialmedia #information #polarization
+- [Mapping life’s disparity and evolutionary constraints in a geometric complexity space](https://www.science.org/doi/10.1126/sciadv.aea6945) #science #biology #life #geometry
+- [Biology Lessons In Degrowth: The Three Stages of Civilisation](https://georgetsakraklides.substack.com/p/biology-lessons-in-degrowth-the-three?r=4mkmev&utm_medium=ios&triedRedirect=true) #capitalism #biology #analogy
+
 ### week 14
 
 - [Jared Henderson - I don't like what the internet is doing to me.](https://www.youtube.com/watch?v=c0VHypPaVM8) #online #internet #change #life_gamification
