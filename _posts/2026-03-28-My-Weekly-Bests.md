@@ -5,6 +5,14 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 16
+
+- [Planet Critical - Tech Titans Won't Save Us - Paris Marx](https://www.youtube.com/watch?v=TNQBHbSwNJk) #Ai #externalities
+- [Polyhedral-net splines for geometry and analysis - Jorg Peters - Lecture](https://www.carmin.tv/en/collections/geometry-and-computing-geometrie-et-informatique/video/polyhedral-net-surfaces-for-geometry-analysis) #computation #geometry #polyhedral #splines
+- [The Future of Climbing by Cedric Lachat & Guillaume Broust](https://www.youtube.com/watch?v=2dDD-d4_Sc8) #climbing #mountain #overturism #indoor
+- [Why I'm against the use of generative AI altogether](https://andibartz.substack.com/p/why-im-against-the-use-of-generative) #generativeAI #ethics
+- [Aeon - The clock in our genes](https://aeon.co/essays/far-from-junk-the-clock-in-our-dna-and-its-discoverer) #biology #evolution #genetics
+
 ### week 15
 
 - [Planet Critical - Architecture is Climate - Tatjana Schneider & Jeremy Till](https://www.youtube.com/watch?v=hyViI5yiMpM&list=WL&index=11) #architecture #climatecrisis
