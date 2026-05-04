@@ -7,7 +7,7 @@ layout: post
 
 ### weeks 17-18
 
-- [Planet Critical - Deep Ecology | John Seed](https://www.youtube.com/watch?v=j4XontYVeH4) #deep #ecology #environmentalism #community
+- [Planet Critical - Deep Ecology - John Seed](https://www.youtube.com/watch?v=j4XontYVeH4) #deep #ecology #environmentalism #community
 - [The Abyss Got a Free Tier](https://smry.ai/substack.com/home/post/p-193974456) #AI
 - [Why AI Agents are either the best or worst thing we’ve ever built](https://www.youtube.com/watch?v=WnzR5aOElvw) #AI #agents #liability
 - [Aeon - To be is to participate](https://aeon.co/essays/lucien-levy-bruhl-and-the-emergence-of-personhood) #anthropology #personhood #sociality
