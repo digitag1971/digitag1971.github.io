@@ -5,7 +5,15 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
-### weeks 17-18
+### week 19
+
+- [How to Cultivate Radical Imagination - Rob Hopkins on Falling in Love with the Future](https://www.youtube.com/watch?v=FxOKoZipLFU) #climatecrisis #response #future
+- [Solarpunk: A Short Guide to the Decolonization of the Sun](https://bluelabyrinths.com/2026/04/20/solarpunk-a-short-guide-to-the-decolonization-of-the-sun/) #technology #capitalism #opentech
+- [Material Matters Podcast - Summer Islam on building with biomaterials.](https://www.youtube.com/watch?v=7BgIm5f0QxA) #climatecrisis #architecture #materials #design
+- [The Trade Space - On NASA’s Architecture Definition Document](https://worldmakingproject.substack.com/p/the-trade-space) #NASA #space #architecture 
+- [Meet the academics refusing to use generative AI](https://www.nature.com/articles/d41586-026-00508-w) #AI #academy #ethics
+
+### weeks 17 & 18
 
 - [Planet Critical - Deep Ecology - John Seed](https://www.youtube.com/watch?v=j4XontYVeH4) #deep #ecology #environmentalism #community
 - [The Abyss Got a Free Tier](https://smry.ai/substack.com/home/post/p-193974456) #AI
@@ -55,7 +63,7 @@ layout: post
 - [Collapse 2050 - Reclaiming Sanity in an Insane World](https://www.collapse2050.com/reclaiming-sanity-in-an-insane-world/) #metacrisis #reaction #agency
 - [Why Capitalism Is Now A Game of Mind Control - Jim Rutt](https://www.youtube.com/watch?v=w7PgKUWutSg) #economy #capitalism
 
-### week 10 & 11
+### weeks 10 & 11
 
 - [They’re Not Just Listening, They’re Weaponizing Sound](https://www.youtube.com/watch?v=W0Lu1qJn4cM) #AI #music #IP
 - [Grid Particle Systems - Physarum Slime Mold Pt I: Theory](https://www.youtube.com/feed/history) #computation
