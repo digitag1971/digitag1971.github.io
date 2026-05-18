@@ -5,6 +5,13 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 20
+
+- [The History and Art of the 10 Cubes Challenge - Sterling Roth](https://www.youtube.com/watch?v=DOBXvcEltXE) #art #modeling #education #constraints
+- [The Future of Human Intelligence: Education, AI, & Creativity - Sir Ken Robinson](https://www.youtube.com/watch?v=KLDVxx4TqcE) #education #creativity #future #oldbutgold
+- [How Capitalism Creates Poverty - Olivier De Schutter on Inequality & Building a New Economy](https://www.youtube.com/watch?v=xqFZUwUptrs) #economy #poverty #inequality #action
+- [The Myth of Individual Responsibility - Michael Maniates](https://www.youtube.com/watch?v=cY4-5heUIDE) #climatecrisis #environment #responsibility
+
 ### week 19
 
 - [How to Cultivate Radical Imagination - Rob Hopkins on Falling in Love with the Future](https://www.youtube.com/watch?v=FxOKoZipLFU) #climatecrisis #response #future
