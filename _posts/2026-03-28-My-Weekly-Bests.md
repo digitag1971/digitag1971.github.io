@@ -5,6 +5,13 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 21
+
+- [Climate Extremes: Agriculture](https://www.youtube.com/watch?v=AhpQFBEDvzY) #documentary #agriculture #food #system #climatechange
+- [Why I Refuse to Use "AI"](https://benui.ca/blog/why-i-refuse-ai/) #AI #LLM #refuse #ethics #issues
+- [Does overwork make agents Marxist? Preference drift and the political economy of AI agents](https://aleximas.substack.com/p/does-overwork-make-agents-marxist) #AI #agents #alignment
+- [A Billion People Live Like This: Inside the World’s Informal Cities - ENDEVR Documentary](https://www.youtube.com/watch?v=mZIv8HUZbWI) #architecture #informalcities #urbanization
+
 ### week 20
 
 - [The History and Art of the 10 Cubes Challenge - Sterling Roth](https://www.youtube.com/watch?v=DOBXvcEltXE) #art #modeling #education #constraints
