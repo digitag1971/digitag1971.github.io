@@ -5,6 +5,13 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 22
+
+- [The Buy Nothing Rebellion Has Started ... We Have Had ENOUGH](https://www.youtube.com/watch?v=SX2xyKJNRLQ) #consumerism #lessismore
+- [Heartbeats of the World’s Oldest Crag - Adam Ondra](https://www.youtube.com/watch?v=wTUEAWgRmQ8) #climbing #essence #history
+- [Building an Eco-Civilisation - Jeremy Lent](https://www.youtube.com/watch?v=s3R5ONzURns) #environment #ecology #community
+- [You can just say it](https://noperator.dev/posts/you-can-just-say-it/) #AI #slop #intent
+
 ### week 21
 
 - [Climate Extremes: Agriculture](https://www.youtube.com/watch?v=AhpQFBEDvzY) #documentary #agriculture #food #system #climatechange
