@@ -5,6 +5,15 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 23
+
+- [AI is devoid of meaning and humanity. That’s why its vapid voice suits this political moment](https://www.theguardian.com/commentisfree/2026/jun/01/ai-meaning-humanity-political-moment-trust-humans-over-machines) #generative #AI #slop #language
+- [Is AI Making Our Brains Weaker?](https://time.com/article/2026/05/19/is-ai-making-our-brains-weaker/) #AI #cognitive #offload #critical #thinking
+- [“Democracy” Was Never Designed to Work — But Something Better Is Emerging](https://substack.com/home/post/p-196052594) #democracy #evolution #politics #bottom-up
+- [How human error became a weapon against large language models](https://www.newscientist.com/article/2528529-how-human-error-became-a-weapon-against-large-language-models/) #AI #Turing 
+- [‘Happiness is not just about GDP’: ambitious plan or utopia?](https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia) #GDP #economy #protopia #inequality
+- [Flood of AI 'garbage' is pushing open-source developers to the limit](https://www.newscientist.com/article/2527761-flood-of-ai-garbage-is-pushing-open-source-developers-to-the-limit/) #AI #opensource #developers
+
 ### week 22
 
 - [The Buy Nothing Rebellion Has Started ... We Have Had ENOUGH](https://www.youtube.com/watch?v=SX2xyKJNRLQ) #consumerism #lessismore
