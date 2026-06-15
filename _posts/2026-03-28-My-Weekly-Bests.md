@@ -5,6 +5,14 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 24
+
+- [A Super El Niño Is Coming in 2026](https://www.youtube.com/watch?v=_b_sGbjSVZQ) #climatecrisis #elnino #readiness #adaptation
+- [The Real Story of "Invasive Species" - Clare Follmann](https://www.youtube.com/watch?v=RNAYrwGq_Oc) #ecology #capitalism #extraction 
+- [The Tyranny of Convenience (2018)](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) #convenience #age #monopoly
+- [‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival](https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival) #report #inequality #multicrisis #climate
+- [Science Is Drowning in AI Slop](https://www.theatlantic.com/science/2026/01/ai-slop-science-publishing/685704/) #Science #publications #AI #slop
+
 ### week 23
 
 - [AI is devoid of meaning and humanity. That’s why its vapid voice suits this political moment](https://www.theguardian.com/commentisfree/2026/jun/01/ai-meaning-humanity-political-moment-trust-humans-over-machines) #generative #AI #slop #language
