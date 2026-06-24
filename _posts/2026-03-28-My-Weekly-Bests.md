@@ -5,6 +5,13 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 25
+
+- [Stone Locals: Rediscovering the Soul of Climbing | Patagonia Films](https://www.youtube.com/watch?v=Yj7ZCYMgSvw) #climbing #life #therapy #community
+- [The "Energy Transition" is a Pipe Dream | Jean-Baptiste Fressoz](https://www.youtube.com/watch?v=t0kQxS2eEt8) #energy #transition #myth #extraction
+- [The Automation of General Intellect: A conversation with Matteo Pasquinelli](https://portolan-journal.org/?post=the-automation-of-general-intellect-a-conversation-with-matteo-pasquinelli) #AI #automation #theory
+- [Living Without the Future We Were Promised](https://substack.com/@adrianlambert/p-187938214) #future #society #behaviour
+
 ### week 24
 
 - [A Super El Niño Is Coming in 2026](https://www.youtube.com/watch?v=_b_sGbjSVZQ) #climatecrisis #elnino #readiness #adaptation
