@@ -5,6 +5,13 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 26 and 27
+
+- [AI Was Never About Helping You - Cory Doctorow](https://www.youtube.com/watch?v=SPQNPJ0CEPo) #AI #bubble #exploitation #techmonopoly
+- [A Billion People Live Like This: Inside the World’s Informal Cities - ENDEVR Documentary](https://www.youtube.com/watch?v=mZIv8HUZbWI) #informal #cities #architecture #organization 
+- [The Revolt Against Technology](https://www.youtube.com/watch?v=vhYS1diXZMM) #technology #newluddism #attention #fracking
+- [The Trouble with Trash](https://nautil.us/the-trouble-with-trash-1282371) #garbageman #stories #sociology #waste
+
 ### week 25
 
 - [Stone Locals: Rediscovering the Soul of Climbing - Patagonia Films](https://www.youtube.com/watch?v=Yj7ZCYMgSvw) #climbing #life #therapy #community
