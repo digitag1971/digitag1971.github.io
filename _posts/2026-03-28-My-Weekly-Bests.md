@@ -5,6 +5,13 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 28
+
+- [American Progress Was an Optical Illusion](https://thereader.mitpress.mit.edu/american-progress-was-an-optical-illusion/) #progress #illusion
+- [Why millions are choosing not to have children - The Population Bust](https://www.youtube.com/watch?v=6arz6gdwxgM) #demography #economy #healthcare
+- [Human Attention as a Philosophical Problem: The Question, and the Nature of Questions](https://onlinelibrary.wiley.com/doi/full/10.1111/meta.70024) #paper #attention #human #fracking
+- [Why we're blind to civilizational collapse](https://www.collapse2050.com/why-were-blind-to-civilizational-collapse/) #metacrisis #ExistentialRisk #ClimateChange #CognitiveBias
+
 ### week 26 and 27
 
 - [AI Was Never About Helping You - Cory Doctorow](https://www.youtube.com/watch?v=SPQNPJ0CEPo) #AI #bubble #exploitation #techmonopoly
