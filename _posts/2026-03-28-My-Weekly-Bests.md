@@ -5,6 +5,13 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 29
+
+- [Signal’s President Says You Have Plenty to Hide - The Futurology Podcast](https://www.youtube.com/watch?v=qYVeyhxLF7s) #privacy #metacrisis #AI
+- [Why Sci-Fi Legend Ted Chiang Fears Capitalism, Not A.I. - Ezra Klein Show](https://nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/b6521003-8395-44ea-9e85-635d96c9e429/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_97bc14c7eaeb59709cbeaaaf3d4ae40e_48259927.mp3?x-ais-classified=streaming&hash_redirect=1&x-total-bytes=48259927&listeningSessionID=0CD_382_195__d278ac6d8340fc2925a23f7fb155a4371baa477f) #podcast #sci-fi #AI #ethics
+- [Generative AI Is an Engineering Disaster](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/) #AI #tech #economy #infostructure
+- [Why we're blind to civilizational collapse](https://www.collapse2050.com/why-were-blind-to-civilizational-collapse/) #Collapse #SystemicRisk #CognitiveBias #LongTermThinking
+
 ### week 28
 
 - [American Progress Was an Optical Illusion](https://thereader.mitpress.mit.edu/american-progress-was-an-optical-illusion/) #progress #illusion
