@@ -5,6 +5,13 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 30
+
+- [Food Security - Professor Paul Behrens - National Emergency Briefing](https://www.youtube.com/watch?v=jvjJ8Ag0-z0) #food #climatechange #resilience #opportunity
+- [The Road to A Sustainable Future with Kim Stanley Robinson](https://www.youtube.com/watch?v=WmBmhrq3RhE) #protopia #climatecrisis #agency
+- [AI Safety Is a Narrative Problem](https://hdsr.mitpress.mit.edu/pub/wz35dvpo/release/2) #tech #power #AI #narrative 
+- [The looting of science fiction](https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem) #sci-fi #space #politics #tech #oligarchy
+
 ### week 29
 
 - [Signal’s President Says You Have Plenty to Hide - The Futurology Podcast](https://www.youtube.com/watch?v=qYVeyhxLF7s) #privacy #metacrisis #AI
