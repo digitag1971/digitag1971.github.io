@@ -5,6 +5,13 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 31 & 32
+
+- [AI Won't Become God. But It Will Change Everything - Cory Doctorow Live in Philadelphia](https://www.youtube.com/watch?v=rl2_pbrv_wE) #AI #copyrights #narrative #activism
+- [How to Overcome Capitalism - Jason Hickel on Socialism, China, and the West](https://www.youtube.com/watch?v=X5WU51sVn3Y) #capitalism #ecosocialism #postcapitalism #economy
+- [The looting of science fiction](https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem) #scifi #manipulation #tech #politics
+- [Meet The New Rebels Against Big Tech](https://www.youtube.com/watch?v=U13ejmKJJnc) #luddism #resistance #young #activism
+
 ### week 30
 
 - [Food Security - Professor Paul Behrens - National Emergency Briefing](https://www.youtube.com/watch?v=jvjJ8Ag0-z0) #food #climatechange #resilience #opportunity
