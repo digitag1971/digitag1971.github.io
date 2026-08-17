@@ -5,6 +5,13 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 33
+
+- [We face COLLAPSE - Aaron Bastani meets Kevin Anderson](https://www.youtube.com/watch?v=mBFos_T7cT0) #climatecrisis #metacrisis #politics #economics #science
+- [The saturation of vision: apathy in the age of scrolling](https://log.fakewhale.xyz/the-saturation-of-vision-apathy-in-the-age-of-scrolling/) #art #visual #medium #saturation
+- [AI is not replacing teachers. It is exposing what schools forgot to teach](https://scoonews.com/news/ai-is-not-replacing-teachers-it-is-exposing-what-schools-forgot-to-teach/?amp=1&sfnsn=scwspmo) #AI #education #schooling #knowledge
+- [Resist the technocrats](https://aeon.co/essays/are-we-witnessing-the-end-of-the-technocratic-international) #politics #multilateralism #experts #international #organizations
+
 ### week 31 & 32
 
 - [AI Won't Become God. But It Will Change Everything - Cory Doctorow Live in Philadelphia](https://www.youtube.com/watch?v=rl2_pbrv_wE) #AI #copyrights #narrative #activism
