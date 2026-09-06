@@ -5,6 +5,17 @@ layout: post
 
 *An ongoing and provisional collection of articles, podcasts, documentaries, & other content that I think is worthy to be shared.*
 
+### week 34, 35 & 36
+
+- [Low Tech Lives - Philippe Bihouix](https://www.youtube.com/watch?v=upICnImoaD4) #tech #energy #resources #resilience
+- [The True Cost of AI Coding](https://www.youtube.com/watch?v=iPUn1Fnfn0k) #AI #coding #mentalhealth
+- [Natural Disaster Expert: Elites Have NO PLAN for Climate Collapse - Aaron Bastani meets Bill McGuire](https://www.youtube.com/watch?v=ee9fYVwhBsU) #climatecrisis #geology #extreme #events
+- [AI Is a Growth Tool Arriving at the Worst Possible Time for Humanity](https://substack.com/home/post/p-209995710) #AI #growth #inequality #system
+- [The Rise and Fall of Agent Civilizations](https://www.dwarkesh.com/p/openai-huggingface) #AI #safety #agents #vulnerabilities
+- [Six Problems With Talking About the “Ethical” or “Responsible” Use of “AI”](https://buttondown.com/maiht3k/archive/six-problems-with-talking-about-the-ethical-or/) #AI #ethics
+- [Climate Intervention in the Thick Present: Tipping Points, Haraway and Staying with the Trouble](https://www.youtube.com/watch?v=bo_PGXAgyQI) #climatecrisis #intervention #activism #research
+- [Ajeya Cotra – "This might be the clearest warning shot we ever get"](https://www.youtube.com/watch?v=X50zezLFWWI) #AI #control #hack
+
 ### week 33
 
 - [We face COLLAPSE - Aaron Bastani meets Kevin Anderson](https://www.youtube.com/watch?v=mBFos_T7cT0) #climatecrisis #metacrisis #politics #economics #science
