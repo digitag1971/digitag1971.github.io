@@ -1,6 +1,6 @@
-# MAAS — Modular Architectural Assemblage System
+# MAAS — Modular Architectural Assemblage System Workshop
 
-## First Workshop Iteration | Matières Numériques, Saint-Étienne | 26–30 October 2026
+## First Iteration | Matières Numériques, Saint-Étienne | 26–30 October 2026
 
 # Introduction
 
@@ -177,7 +177,7 @@ The tools required for the module assembly were:
 
 # Feedback and Results
 
-**The first MAAS structural module is finally built!* And, more importantly, it works!*
+**The first MAAS structural module is finally built! And, more importantly, it works!**
 
 The structure proved to be stable, reasonably strong, and relatively easy to assemble. Wood processing, on the other hand, was considerably more demanding than expected.
 
@@ -195,24 +195,23 @@ The MAAS project is now ready for its next iteration. And, by the way, if anyone
 
 The next iteration will hopefully allow us to explore several new topics, organised around three main areas of development.
 
-## 1. MAAS Design & Development
+## MAAS Design & Development
 
 - **Digital fabrication:** investigate digital fabrication processes for the kit components and test the improvements identified during the workshop, particularly regarding tolerances, structural performance, and assembly quality.
 - **Tagging system:** develop a system for identifying and classifying individual components and kits, facilitating their management, fabrication, and assembly.
 - **Documentation:** develop and release the final assembly instructions and official technical documentation.
 - **Additional building systems:** explore alternative floor and wall systems and investigate how they could integrate with the existing structural module.
 
-## 2. MAAS Communication & Networking
+## MAAS Communication & Networking
 
 - **Open-source platform:** identify and develop a suitable platform for sharing the project, its documentation, and the modular kit database.
 - **Funding opportunities:** identify grants, funding programmes, and other opportunities to make future iterations and workshops financially sustainable.
 - **Strategic partnerships:** establish collaborations with organisations and initiatives working on related topics, such as Le Grand Atelier and BaseHabitat.
 
-## 3. MAAS Education
+## MAAS Education
 
-Identify schools, universities, and educational organisations interested in climate change adaptation, modular architecture, and alternative construction systems, particularly in relation to the challenges of displaced populations.
-
-The goal is to develop educational programmes and hands-on workshops focused on 1:1-scale prototyping, allowing students and participants to explore the design, fabrication, and assembly of modular structures through direct experimentation.
+- Identify schools, universities, and educational organisations interested in climate change adaptation, modular architecture, and alternative construction systems, particularly in relation to the challenges of displaced populations.
+- The goal is to develop educational programmes and hands-on workshops focused on 1:1-scale prototyping, allowing students and participants to explore the design, fabrication, and assembly of modular structures through direct experimentation.
 
 ---
 
