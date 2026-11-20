@@ -21,6 +21,8 @@ Last but certainly not least, I want to THANK every single participant for their
 
 It was a wonderful and intense week. I met a group of participants on the first day, but by the end, I was saying goodbye to friends. What a privilege!
 
+![Group Photo](/assets/images/Group_photo.png)
+
 # Workshop Goals
 
 This workshop represents just the first iteration of the MAAS research project. Many more iterations will be necessary to develop, test, and validate the system, making it increasingly robust and reliable.
@@ -57,7 +59,9 @@ The processing workflow involved four main steps:
 
 This phase proved to be one of the most demanding parts of the workshop, both in terms of time and labour. It also provided valuable feedback about the level of preparation required before assembly and the potential benefits of introducing digital fabrication in future iterations.
 
-# Preparing the Toolkits
+![Processing Wood](/assets/images/Processing_Wood.png)
+
+# Preparing the Kits
 
 The structural module is composed of three different types of **kits**:
 
@@ -72,6 +76,8 @@ The structural module is composed of three different types of **kits**:
 - L-shaped square ruler
 
 Each kit is conceived as a predefined collection of timber elements and connectors, with specific dimensions, quantities, and assembly procedures.
+
+![Preparing Kits](/assets/images/Preparing_Toolkits.png)
 
 ## Joint Kit
 
