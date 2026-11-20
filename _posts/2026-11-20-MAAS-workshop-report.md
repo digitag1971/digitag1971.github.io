@@ -89,7 +89,7 @@ Each kit is conceived as a predefined collection of timber elements and connecto
 
 **Weight:** 6.1 kg
 
-## Truss Type A — X Direction
+## Beam Type A — X Direction
 
 **Materials**
 
@@ -99,7 +99,7 @@ Each kit is conceived as a predefined collection of timber elements and connecto
 
 **Weight:** 25.7 kg
 
-## Truss Type B — Y & Z Directions
+## Beam Type B — Y & Z Directions
 
 **Materials**
 
