@@ -185,6 +185,9 @@ The tools required for the module assembly were:
 - Precision spirit level.
 - Rubber mallet.
 
+![Assembly_A](/assets/images/Assembly_A.png)
+![Assembly_B](/assets/images/Assembly_B.png)
+
 # Feedback and Results
 
 **The first MAAS structural module is finally built! And, more importantly, it works!**
