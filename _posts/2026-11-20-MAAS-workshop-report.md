@@ -109,6 +109,8 @@ Each kit is conceived as a predefined collection of timber elements and connecto
 
 **Weight:** 24.8 kg
 
+![Kits](/assets/images/Kits.png)
+
 # Additional Experiments
 
 Besides preparing and assembling the structural kits, some participants decided to investigate complementary aspects of the system. These parallel experiments were particularly valuable because they allowed us to explore potential improvements beyond the initial scope of the workshop.
@@ -144,6 +146,8 @@ The experiment aimed to evaluate:
 - Potential limitations and technical issues.
 
 This was an interesting opportunity to compare conventional woodworking processes with robotic digital fabrication and to start considering how both approaches could coexist within the MAAS production strategy.
+
+![Extras](/assets/images/Extras.png)
 
 # Module Assembly
 
@@ -220,6 +224,8 @@ The next iteration will hopefully allow us to explore several new topics, organi
 - The goal is to develop educational programmes and hands-on workshops focused on 1:1-scale prototyping, allowing students and participants to explore the design, fabrication, and assembly of modular structures through direct experimentation.
 
 ---
+
+![People](/assets/images/People.png)
 
 **This is just the beginning.**
 
